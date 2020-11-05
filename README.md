@@ -6,8 +6,8 @@ in the recent i.e. Covid-19 pandemic going on, wearing a mask is one of the most
 Link to the dataset used: [Dataset](https://drive.google.com/drive/folders/1tvLtA8UvfvQO6dEZBfOJi0aoIVOIzHAT)
 
 ### Output
-![With_Mask](E:/college/new projects (if any)/Projects/Mask Detector/mask.png)
+![With_Mask](https://imgur.com/a/KoRHPLo)
 
-![Without_Mask](E:/college/new projects (if any)/Projects/Mask Detector/no mask.png)
+![Without_Mask](https://imgur.com/a/KoRHPLo)
 
 Video Output file : [Output](https://drive.google.com/file/d/1lBK8TVVILtppxgUukI4FPtvD2cF610nq/view?usp=sharing)
